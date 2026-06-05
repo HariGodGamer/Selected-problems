@@ -1,2 +1,2 @@
-# LeetCode-selected-problems
+# Selected-problems
 Important &amp; hard LeetCode problems with explanations
