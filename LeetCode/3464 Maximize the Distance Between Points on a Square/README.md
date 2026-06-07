@@ -89,7 +89,7 @@ k = 4
 
 ### Visualization
 
-<p align="left">
+<p align="center">
   <img src="./4080_example0_revised.png" width="300"/>
 </p>
 
