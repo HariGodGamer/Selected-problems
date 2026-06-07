@@ -89,13 +89,9 @@ k = 4
 
 ### Visualization
 
-```text
-(0,2) ●──────● (2,2)
-       │      │
-       │      │
-       │      │
-(0,0) ●──────● (2,0)
-```
+<p align="center">
+  <img src="G:\My Drive\B-TECH CSE(AIML)\Selected _problems\LeetCode\3464 Maximize the Distance Between Points on a Square\4080_example0_revised.png" width="300"/>
+</p>
 
 All four points must be selected.
 
@@ -134,16 +130,10 @@ k = 4
 
 ### One Valid Selection
 
-```text
-(1,2)
-   ●──● (2,2)
-      │
-      ● (2,1)
-      │
-      │
-●─────●
-(0,0) (2,0)
-```
+<p align="center">
+  <img src="G:\My Drive\B-TECH CSE(AIML)\Selected _problems\LeetCode\3464 Maximize the Distance Between Points on a Square\4080_example1_revised.png" width="300"/>
+</p>
+
 
 The minimum Manhattan distance among selected points is:
 
@@ -182,13 +172,10 @@ k = 5
 
 ### One Valid Selection
 
-```text
-●──●──●
-│
-●
-│
-●─────●
-```
+<p align="center">
+  <img src="G:\My Drive\B-TECH CSE(AIML)\Selected _problems\LeetCode\3464 Maximize the Distance Between Points on a Square\4080_example2_revised.png" width="300"/>
+</p>
+
 
 Minimum Manhattan distance:
 
