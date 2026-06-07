@@ -89,7 +89,7 @@ k = 4
 
 ### Visualization
 
-<p align="center">
+<p align="left">
   <img src="G:\My Drive\B-TECH CSE(AIML)\Selected _problems\LeetCode\3464 Maximize the Distance Between Points on a Square\4080_example0_revised.png" width="300"/>
 </p>
 
